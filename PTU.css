@@ -1,0 +1,34 @@
+#eye{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-left: 1vh;
+   
+}
+#open{
+    display: none;
+    align-items: center;
+    position: relative;
+    margin-left: 1vh;
+   
+}
+#light{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 2%;
+    left: 90%;
+    right: 0%;
+    bottom: 0%;
+}
+
+#dark{
+    position: absolute;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 2%;
+    left: 90%;
+    right: 0%;
+    bottom: 0%;
+}
