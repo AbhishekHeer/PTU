@@ -14,7 +14,6 @@
 }
 #light{
     position: absolute;
-    height: 100%;
     top: 2%;
     left: 90%;
     right: 0%;
@@ -23,8 +22,6 @@
 
 #dark{
     position: absolute;
-    display: none;
-    height: 100%;
     top: 2%;
     left: 90%;
     right: 0%;
