@@ -14,7 +14,6 @@
 }
 #light{
     position: absolute;
-    width: 100%;
     height: 100%;
     top: 2%;
     left: 90%;
@@ -25,7 +24,6 @@
 #dark{
     position: absolute;
     display: none;
-    width: 100%;
     height: 100%;
     top: 2%;
     left: 90%;
